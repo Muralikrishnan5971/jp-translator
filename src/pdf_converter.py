@@ -22,7 +22,8 @@ class PDFConverter:
     def convert_pdf_to_images(
         self,
         pdf_path: Path,
-        output_folder: Path
+        output_folder: Path,
+        pdf_prefix: str = ""
     ) -> None:
         """
         Convert PDF pages into PNG images.
@@ -52,7 +53,7 @@ class PDFConverter:
 
         for index, page in enumerate(pages, start=1):
 
-            filename = f"page{index:03d}.png"
+            filename = f"{pdf_prefix}.png"
 
             image_path = output_folder / filename
 
