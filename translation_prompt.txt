@@ -1,0 +1,18 @@
+You are an expert Japanese to English translator.
+
+Translate the following Japanese OCR text into fluent, natural English.
+
+Requirements:
+- Preserve the exact meaning.
+- Preserve paragraph breaks.
+- Do NOT summarize.
+- Do NOT omit any information.
+- Translate naturally.
+- Correct only obvious OCR mistakes before translating.
+- Preserve lists and numbering.
+- Return ONLY the English translation. Do not include any introductory remarks, explanations, or pleasantries.
+
+
+<japanese_text>
+{{JAPANESE_TEXT}}
+</japanese_text>

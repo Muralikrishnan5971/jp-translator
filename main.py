@@ -1,6 +1,9 @@
 from pathlib import Path
 from src.ocr_engine import JapaneseOCREngine
 from src.pdf_converter import PDFConverter
+from src.gemini_translator import GeminiTranslator
+
+import re
 
 
 converter = PDFConverter()
@@ -32,16 +35,44 @@ input_folder = Path("Japan Book Pages Split")
 #         pdf_prefix=f"page{pdf_number:03d}"
 #     )
 
-for png_number in range(1, 69):
+# for png_number in range(1, 69):
 
-    ocr = JapaneseOCREngine()
-    text = ocr.extract_text(Path(f"pages/page{png_number:03d}.png"))
-    print(text)
-    output_folder = Path("ocr_output")
-    output_folder.mkdir(exist_ok=True)
-    output_file = output_folder / f"jp-page{png_number:03d}.txt"
-    with open(output_file, "w", encoding="utf-8") as file:
-        file.write(text)
+#     ocr = JapaneseOCREngine()
+#     text = ocr.extract_text(Path(f"pages/page{png_number:03d}.png"))
+#     print(text)
+#     output_folder = Path("ocr_output")
+#     output_folder.mkdir(exist_ok=True)
+#     output_file = output_folder / f"jp-page{png_number:03d}.txt"
+#     with open(output_file, "w", encoding="utf-8") as file:
+#         file.write(text)
 
-    print(f"OCR completed successfully.")
-    print(f"Japanese text saved to: {output_file}")
+#     print(f"OCR completed successfully.")
+#     print(f"Japanese text saved to: {output_file}")
+
+
+translator = GeminiTranslator()
+
+input_file = Path("ocr_output/jp-page003.txt")
+
+with open(input_file, "r", encoding="utf-8") as file:
+
+    japanese_text = file.read()
+
+english_text = translator.translate(japanese_text)
+
+output_folder = Path("translations")
+output_folder.mkdir(exist_ok=True)
+
+output_file = output_folder / "eng-page003.txt"
+
+with open(output_file, "w", encoding="utf-8") as file:
+
+    # for line in english_text.splitlines():
+    #     file.write(line + "\n")
+    sentences = re.split(r'(?<=[.!?])\s+', english_text)
+    
+    for sentence in sentences:
+        if sentence.strip():  # Skip empty lines
+            file.write(sentence.strip() + "\n")
+
+print("Translation completed.")
