@@ -5,7 +5,8 @@ Introduction to hereditary diseases
 - The author mentions examples such as:
   - Phenylketonuria (PKU), a metabolic disorder.
   - Skin diseases.
-  - Muscle diseases, including muscular dystrophy.
+  - Muscle diseases, including muscular dystrophy.\
+  
 - The chapter begins explaining how inherited diseases may affect human health.
 
 1. Medicines and pregnancy
