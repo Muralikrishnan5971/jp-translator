@@ -1,0 +1,192 @@
+[
+  {
+    "id": "chapter-01",
+    "title": "Chapter 1: Introduction",
+    "files": [
+      "texts/page01.txt",
+      "texts/page02.txt",
+      "texts/page03.txt"
+    ]
+  },
+  {
+    "id": "chapter-02",
+    "title": "Chapter 2: Chapter Title 2",
+    "files": [
+      "texts/page04.txt",
+      "texts/page05.txt",
+      "texts/page06.txt",
+      "texts/page07.txt"
+    ]
+  },
+  {
+    "id": "chapter-03",
+    "title": "Chapter 3: Chapter Title 3",
+    "files": [
+      "texts/page08.txt",
+      "texts/page09.txt",
+      "texts/page10.txt"
+    ]
+  },
+  {
+    "id": "chapter-04",
+    "title": "Chapter 4: Chapter Title 4",
+    "files": [
+      "texts/page11.txt",
+      "texts/page12.txt",
+      "texts/page13.txt",
+      "texts/page14.txt"
+    ]
+  },
+  {
+    "id": "chapter-05",
+    "title": "Chapter 5: Chapter Title 5",
+    "files": [
+      "texts/page15.txt",
+      "texts/page16.txt",
+      "texts/page17.txt"
+    ]
+  },
+  {
+    "id": "chapter-06",
+    "title": "Chapter 6: Chapter Title 6",
+    "files": [
+      "texts/page18.txt",
+      "texts/page19.txt",
+      "texts/page20.txt",
+      "texts/page21.txt"
+    ]
+  },
+  {
+    "id": "chapter-07",
+    "title": "Chapter 7: Chapter Title 7",
+    "files": [
+      "texts/page22.txt",
+      "texts/page23.txt",
+      "texts/page24.txt"
+    ]
+  },
+  {
+    "id": "chapter-08",
+    "title": "Chapter 8: Chapter Title 8",
+    "files": [
+      "texts/page25.txt",
+      "texts/page26.txt",
+      "texts/page27.txt",
+      "texts/page28.txt"
+    ]
+  },
+  {
+    "id": "chapter-09",
+    "title": "Chapter 9: Chapter Title 9",
+    "files": [
+      "texts/page29.txt",
+      "texts/page30.txt",
+      "texts/page31.txt"
+    ]
+  },
+  {
+    "id": "chapter-10",
+    "title": "Chapter 10: Chapter Title 10",
+    "files": [
+      "texts/page32.txt",
+      "texts/page33.txt",
+      "texts/page34.txt",
+      "texts/page35.txt"
+    ]
+  },
+  {
+    "id": "chapter-11",
+    "title": "Chapter 11: Chapter Title 11",
+    "files": [
+      "texts/page36.txt",
+      "texts/page37.txt",
+      "texts/page38.txt"
+    ]
+  },
+  {
+    "id": "chapter-12",
+    "title": "Chapter 12: Chapter Title 12",
+    "files": [
+      "texts/page39.txt",
+      "texts/page40.txt",
+      "texts/page41.txt",
+      "texts/page42.txt"
+    ]
+  },
+  {
+    "id": "chapter-13",
+    "title": "Chapter 13: Chapter Title 13",
+    "files": [
+      "texts/page43.txt",
+      "texts/page44.txt",
+      "texts/page45.txt"
+    ]
+  },
+  {
+    "id": "chapter-14",
+    "title": "Chapter 14: Chapter Title 14",
+    "files": [
+      "texts/page46.txt",
+      "texts/page47.txt",
+      "texts/page48.txt",
+      "texts/page49.txt"
+    ]
+  },
+  {
+    "id": "chapter-15",
+    "title": "Chapter 15: Chapter Title 15",
+    "files": [
+      "texts/page50.txt",
+      "texts/page51.txt",
+      "texts/page52.txt"
+    ]
+  },
+  {
+    "id": "chapter-16",
+    "title": "Chapter 16: Chapter Title 16",
+    "files": [
+      "texts/page53.txt",
+      "texts/page54.txt",
+      "texts/page55.txt",
+      "texts/page56.txt"
+    ]
+  },
+  {
+    "id": "chapter-17",
+    "title": "Chapter 17: Chapter Title 17",
+    "files": [
+      "texts/page57.txt",
+      "texts/page58.txt",
+      "texts/page59.txt"
+    ]
+  },
+  {
+    "id": "chapter-18",
+    "title": "Chapter 18: Chapter Title 18",
+    "files": [
+      "texts/page60.txt",
+      "texts/page61.txt",
+      "texts/page62.txt",
+      "texts/page63.txt"
+    ]
+  },
+  {
+    "id": "chapter-19",
+    "title": "Chapter 19: Chapter Title 19",
+    "files": [
+      "texts/page64.txt",
+      "texts/page65.txt",
+      "texts/page66.txt"
+    ]
+  },
+  {
+    "id": "chapter-20",
+    "title": "Chapter 20: Chapter Title 20",
+    "files": [
+      "texts/page67.txt",
+      "texts/page68.txt",
+      "texts/page69.txt",
+      "texts/page70.txt"
+    ]
+  }
+]

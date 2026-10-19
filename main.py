@@ -4,6 +4,7 @@ from src.pdf_converter import PDFConverter
 from src.gemini_translator import GeminiTranslator
 
 import re
+import time
 
 
 converter = PDFConverter()
@@ -52,27 +53,29 @@ input_folder = Path("Japan Book Pages Split")
 
 translator = GeminiTranslator()
 
-input_file = Path("ocr_output/jp-page003.txt")
+for pageno in range(1, 5):
+    input_file = Path("ocr_output/jp-page00"+str(pageno)+".txt")
 
-with open(input_file, "r", encoding="utf-8") as file:
+    with open(input_file, "r", encoding="utf-8") as file:
 
-    japanese_text = file.read()
+        japanese_text = file.read()
 
-english_text = translator.translate(japanese_text)
+    english_text = translator.translate(japanese_text)
+    time.sleep(20)
 
-output_folder = Path("translations")
-output_folder.mkdir(exist_ok=True)
+    output_folder = Path("translations")
+    output_folder.mkdir(exist_ok=True)
 
-output_file = output_folder / "eng-page003.txt"
+    output_file = output_folder / "eng-page00"+str(pageno)+".txt"
 
-with open(output_file, "w", encoding="utf-8") as file:
+    with open(output_file, "w", encoding="utf-8") as file:
 
-    # for line in english_text.splitlines():
-    #     file.write(line + "\n")
-    sentences = re.split(r'(?<=[.!?])\s+', english_text)
-    
-    for sentence in sentences:
-        if sentence.strip():  # Skip empty lines
-            file.write(sentence.strip() + "\n")
+        # for line in english_text.splitlines():
+        #     file.write(line + "\n")
+        sentences = re.split(r'(?<=[.!?])\s+', english_text)
+        
+        for sentence in sentences:
+            if sentence.strip():  # Skip empty lines
+                file.write(sentence.strip() + "\n")
 
-print("Translation completed.")
+    print("Translation completed.")
