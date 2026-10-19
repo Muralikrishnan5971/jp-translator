@@ -1,58 +1,55 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Digital Book</title>
-
-    <style>
-        body {
-            font-family: Georgia, serif;
-            background: #f8f5ef;
-            color: #333;
-            max-width: 700px;
-            margin: 50px auto;
-            padding: 20px;
-        }
-
-        h1 {
-            text-align: center;
-        }
-
-        p {
-            text-align: center;
-            color: #666;
-        }
-
-        a {
-            display: block;
-            padding: 14px;
-            margin: 10px 0;
-            background: white;
-            color: #305b80;
-            text-decoration: none;
-            border-radius: 8px;
-            border: 1px solid #ddd;
-        }
-
-        a:hover {
-            background: #e8f0f7;
-        }
-    </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f0e7">
+  <meta name="description" content="A beautifully simple digital book reader.">
+  <title>The Reading Room — Digital Book</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./script.js" defer></script>
 </head>
-
 <body>
-
-    <h1>My Digital Book</h1>
-    <p>Select a chapter to start reading</p>
-
-    <h2>Table of Contents</h2>
-
-    <a href="texts/page01.txt">Chapter 1 - Introduction</a>
-    <a href="texts/page02.txt">Chapter 2 - The Beginning</a>
-    <a href="texts/page03.txt">Chapter 3 - Understanding the Subject</a>
-    <a href="texts/page04.txt">Chapter 4 - Further Reading</a>
-    <a href="texts/page05.txt">Chapter 5 - Conclusion</a>
-
+  <div class="progress-track" aria-hidden="true"><div id="progressBar"></div></div>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Book navigation">
+      <div class="brand"><span class="brand-mark">✦</span><span>THE READING ROOM</span></div>
+      <div class="sidebar-intro"><span class="eyebrow">A DIGITAL EDITION</span><h1 id="bookTitle">The Book</h1><p>A quiet place to read, one chapter at a time.</p></div>
+      <div class="toc-heading"><span>CONTENTS</span><span id="chapterCount">20 CHAPTERS</span></div>
+      <nav id="chapterNav" aria-label="Chapters"></nav>
+      <div class="sidebar-footer">Made for thoughtful reading <span>✦</span></div>
+    </aside>
+    <div class="main-column">
+      <header class="toolbar">
+        <button class="icon-button mobile-menu" id="menuButton" aria-label="Open chapter list" aria-expanded="false">☰</button>
+        <span class="toolbar-title">THE READING ROOM</span>
+        <div class="toolbar-actions">
+          <button class="text-button" id="fontDown" aria-label="Decrease font size">A−</button>
+          <button class="text-button" id="fontUp" aria-label="Increase font size">A+</button>
+          <button class="icon-button" id="themeButton" aria-label="Toggle dark mode" title="Toggle theme">☾</button>
+          <button class="icon-button" id="shareButton" aria-label="Copy chapter link" title="Copy chapter link">↗</button>
+        </div>
+      </header>
+      <main id="readingScroll" class="reading-scroll" tabindex="-1">
+        <article class="reader">
+          <div class="chapter-overline" id="chapterNumber">CHAPTER ONE</div>
+          <h2 id="chapterTitle">Welcome to the Reading Room</h2>
+          <div class="ornament" aria-hidden="true">✦</div>
+          <div id="chapterContent" class="chapter-content" aria-live="polite"><p>Select a chapter to begin reading.</p></div>
+          <div class="end-mark" aria-hidden="true">❦</div>
+          <nav class="chapter-pager" aria-label="Chapter pagination">
+            <button id="prevButton" class="pager-button"><span>← PREVIOUS</span><strong id="prevLabel">Previous chapter</strong></button>
+            <button id="nextButton" class="pager-button next"><span>NEXT →</span><strong id="nextLabel">Next chapter</strong></button>
+          </nav>
+        </article>
+      </main>
+      <footer class="reading-footer"><span id="readingStatus">Ready to read</span><span id="progressLabel">0% read</span></footer>
+    </div>
+  </div>
+  <div id="mobileOverlay" class="mobile-overlay" hidden></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
 </body>
 </html>
