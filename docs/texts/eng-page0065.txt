@@ -1,72 +1,93 @@
-Chapter 26: Baby's Clothes and Diapers (赤ちゃんの衣類とおむつ)
-1. Choosing clothes for a newborn
-1. Babies should wear warm clothes in winter and light, comfortable clothes in summer.
-2. Clothes should allow the baby's skin to breathe and sweat to evaporate.
-3. Babies should be able to move their hands and legs freely.
-4. Choose clothes that do not restrict movement.
-5. The most important thing is to maintain a comfortable body temperature.
-6. Avoid dressing babies in too many layers.
-2. Avoid buying too many baby clothes
-1. Department stores sell many different types of baby clothes.
-2. Some clothes are expensive and decorated with unnecessary features.
-3. Parents should avoid buying clothes simply because they look attractive.
-4. Clothes with wide openings are easier to put on and remove.
-5. Clothes that are too tight or too loose can be uncomfortable.
-6. Babies grow quickly, so clothes become too small within a short time.
-7. It is better to buy simple, practical clothes that can be easily replaced.
-3. Choosing suitable materials
-1. The book says cotton is generally a good material for baby clothes.
-2. Cotton is soft and comfortable against the skin.
-3. The author also mentions that synthetic materials are not necessarily bad.
-4. The important thing is how the material feels against the baby's skin.
-5. Choose clothes that are easy to wash and dry.
-6. Parents do not need to purchase expensive branded clothes.
-4. Baby diapers
-1. Diapers are one of the most important items needed for a newborn.
-2. The book discusses both cloth diapers and disposable diapers.
-3. Cloth diapers can be washed and reused.
-4. Parents should prepare enough diapers for frequent changes.
-5. The baby's skin should be kept clean and dry.
-6. Diapers should be changed whenever they become wet or dirty.
+Chapter 27: Baby Bottles (ミルクびん)
+1. How many diapers should you prepare?
+1. The book recommends preparing about 25–30 cloth diapers.
+2. Babies urinate frequently, so many diapers are needed.
+3. If the mother has difficulty doing laundry or the household has special circumstances, more diapers may be necessary.
+4. The author suggests using disposable diapers in such situations.
 
-5. List of things needed for a newborn baby
-The lower half of the page contains a checklist titled "Things to Prepare for a Newborn Baby" (生まれてくる赤ちゃんの用意).
-Bedding
-Item	Quantity
-Cotton futon mattress	1
-Baby bed pad with quilting	2
-Sheets	2–3
-Towel blankets	2
-Lightweight comforter	1
-Cotton comforter	1
-Blanket	2
-Blanket cover	2
-Hot-water bottle (for warming the bed)	1
-Electric heating pad (for cold weather)	1
-Clothing and diapers
-Item	Quantity
-Short undershirts	3–5
-Long undershirts	3–5
-Baby dresses or gowns	3–5
-Baby dress with wide front opening	2–3
-Baby bibs	1
-Diaper covers	25–30
-Diaper cloths	5
-Paper diapers (for backup)	As needed
-Thick bath towels	2
-Gauze handkerchiefs	10–12
-Towels	2–3
-Milk bottles	2
-Bottle nipples	2–3
-Some of the diaper-related entries are difficult to distinguish in the scan; the quantities above follow the visible table as closely as possible.
+2. Should you buy a baby bathtub?
+1. Baby bathtubs are sold in shops, but the author says they are not always necessary.
+2. In older Japanese homes, families often used large wooden bathing tubs.
+3. A baby could be bathed using a suitable tub already available at home.
+4. The author explains that buying a separate bathtub may be unnecessary.
+5. Parents should consider their household facilities before purchasing one.
 
-The author emphasizes that newborn babies need simple, comfortable, practical clothes rather than expensive or fashionable clothing.
+3. Be careful when bathing babies
+1. The author warns against using dangerously hot water.
+2. Babies have sensitive skin and can be burned easily.
+3. A baby should not be placed in a bathtub containing very hot water.
+4. Parents should ensure the water temperature is suitable before bathing the baby.
+
+4. Why baby bottles may be needed
+1. The author strongly believes that breastfeeding is the best way to feed a baby.
+2. However, some mothers may have difficulty breastfeeding.
+3. In such situations, baby bottles may be necessary.
+4. The book recommends preparing bottles in advance in case they are needed.
+5. Bottles may also be used to give babies water or fruit juice, according to the book's older feeding practices.
+
+5. Choosing a baby bottle
+1. The author recommends using a glass baby bottle.
+2. A glass bottle with a capacity of approximately 200 mL is suggested.
+3. Glass bottles are easier to clean thoroughly.
+4. Glass can be sterilized using boiling water.
+5. The author points out that glass bottles do not easily change their shape when exposed to hot water.
+
+6. Problems with plastic baby bottles
+1. Plastic baby bottles were also available when the book was written.
+2. The author mentions that plastic can become cloudy after repeated use.
+3. Some plastic bottles become less transparent, making it difficult to see whether they are clean.
+4. The book also mentions plastic bottles with capacities of approximately 240–300 mL.
+5. The author prefers glass bottles because they are easier to inspect and clean.
+
+7. Avoid buying unnecessarily large bottles
+1. The author says that a baby's milk intake is relatively small during the early months.
+2. A bottle with a capacity of about 200 mL is generally sufficient initially.
+3. The book suggests that very large bottles are unnecessary for newborns.
+4. Parents should choose a bottle based on the baby's feeding requirements.
+
+8. Baby bottles with handles
+1. Some bottles are designed with handles.
+2. These handles allow older babies to hold the bottle themselves.
+3. The author mentions that babies eventually learn to grasp objects and feed themselves.
+4. However, newborn babies cannot hold their own bottles.
+5. The author suggests that handled bottles are not essential during the newborn period.
+
+9. Choosing the bottle nipple
+1. Baby bottle nipples are available in different shapes and materials.
+2. The book mentions nipples made from silicone rubber.
+3. Some nipples have smaller holes, while others have larger holes.
+4. The size of the hole affects how quickly milk flows.
+5. Nipples are sold in different sizes, including small (S), medium (M), and large (L).
+6. Parents should choose an appropriate nipple for their baby's feeding needs.
+
+10. Rubber versus silicone nipples
+1. Traditional bottle nipples were often made from rubber.
+2. Silicone nipples became another available option.
+3. The author discusses the differences between these materials.
+4. Some nipples are softer, while others are firmer.
+5. The important thing is that the baby can drink comfortably.
+
+11. How many bottles should you buy?
+1. The author advises parents not to buy too many bottles before the baby is born.
+2. Some babies are breastfed and may not need bottles regularly.
+3. Parents can purchase additional bottles later if necessary.
+4. The author recommends keeping the packaging and instructions until the product has been used.
+5. Parents should avoid buying unnecessary baby products simply because they are available.
+
+12. Preparing baby bottles before birth
+1. Parents often purchase baby supplies before delivery.
+2. The author advises buying only essential items initially.
+3. Additional feeding equipment can be purchased after the baby's needs become clear.
+4. The book suggests that preparing everything far in advance is not always necessary.
+
+The author emphasizes that parents should prepare essential feeding equipment without buying unnecessary products.
 
 The main recommendations are:
-1. Choose clothing suitable for the weather.
-2. Allow the baby to move freely.
-3. Prefer soft, comfortable fabrics.
-4. Avoid buying too many clothes because babies grow quickly.
-5. Prepare essential clothing, diapers, and bedding before delivery.
-6. Focus on the baby's comfort rather than appearance.
-Modern safety note: The checklist reflects older Japanese childcare practices. Electric heating pads, hot-water bottles, loose blankets, and soft bedding should not be placed in a newborn's sleep space because of overheating, burns, or suffocation risks. Current guidance recommends a firm, flat sleep surface with a fitted sheet and no loose bedding.
+1. Breastfeeding is encouraged.
+2. Keep baby bottles available if needed.
+3. Glass bottles are recommended by the author.
+4. A 200 mL bottle is suggested for early feeding.
+5. Choose nipples with an appropriate milk flow.
+6. Avoid purchasing too many bottles before birth.
+7. Select baby products based on actual needs rather than appearance.
+Modern medical note: Some recommendations in this older book are outdated. Current guidance recommends exclusive breastfeeding for approximately the first six months when possible, or appropriate infant formula when needed. Babies younger than six months generally should not be given water or fruit juice unless specifically directed by a healthcare professional. Glass and modern food-grade plastic bottles can both be suitable when properly maintained and cleaned.

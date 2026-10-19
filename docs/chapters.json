@@ -71,121 +71,177 @@
   },
   {
     "id": "chapter-11",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 9: When the Nipples Are Retracted (Inverted Nipples)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0043.txt"
     ]
   },
   {
     "id": "chapter-12",
-    "title": "Chapter 01: Can You Become a Mother?",
+    "title": "Chapter 10: Morning Sickness (つわり)",
     "files": [
-      "texts/eng-page0033.txt"
+      "texts/eng-page0044.txt"
     ]
   },
   {
     "id": "chapter-13",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "CChapter 11: Minor Problems During Pregnancy (小さな異変)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0045.txt"
     ]
   },
   {
     "id": "chapter-14",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 12: Major Problems During Pregnancy",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0046.txt"
     ]
   },
   {
     "id": "chapter-15",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "CChapter 12: Major Problems During Pregnancy (Continued)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0047.txt"
     ]
   },
   {
     "id": "chapter-16",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 12: Major Problems During Pregnancy (Continued)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0048.txt"
     ]
   },
   {
     "id": "chapter-17",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 13: Infectious Diseases During Pregnancy",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0049.txt"
     ]
   },
   {
     "id": "chapter-18",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 14: Pregnancy in Women with Existing Medical Conditions",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0050.txt"
     ]
   },
   {
     "id": "chapter-19",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 14: Pregnancy in Women with Existing Medical Conditions (Continued)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0051.txt"
     ]
   },
   {
     "id": "chapter-20",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 14: Pregnancy in Women with Existing Medical Conditions (Continued)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0052.txt"
     ]
   },
   {
     "id": "chapter-21",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "CChapter 15: Ultrasound Examination (Echo)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0053.txt"
     ]
   },
   {
     "id": "chapter-22",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 16: Things to Avoid During Pregnancy (妊娠中してはいけないこと)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0054.txt"
     ]
   },
   {
     "id": "chapter-23",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 17: Returning Home for Childbirth (里帰り分娩)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0055.txt"
     ]
   },
   {
     "id": "chapter-24",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "CChapter 18: When Should You Be Admitted to the Hospital?",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0056.txt"
     ]
   },
   {
     "id": "chapter-25",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 19: The Baby Is Not Born Even After the Due Date",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0057.txt"
     ]
   },
   {
     "id": "chapter-26",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 20: Childbirth for Women Who Work Outside the Home",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0058.txt"
     ]
   },
   {
     "id": "chapter-27",
-    "title": "Chapter 2: Common Mistakes",
+    "title": "Chapter 21. The Role of the Father (父親の役割)",
     "files": [
-      "texts/eng-page0034.txt"
+      "texts/eng-page0059.txt"
+    ]
+  },
+  {
+    "id": "chapter-28",
+    "title": "Chapter 22. Should You Have Children or Not? (子どもをもつか、もたぬか)",
+    "files": [
+      "texts/eng-page0060.txt"
+    ]
+  },
+  {
+    "id": "chapter-29",
+    "title": "Chapter 23. The Baby's Room and Environment",
+    "files": [
+      "texts/eng-page0061.txt"
+    ]
+  },
+  {
+    "id": "chapter-30",
+    "title": "Chapter 24. The Baby's Bed",
+    "files": [
+      "texts/eng-page0062.txt"
+    ]
+  },
+  {
+    "id": "chapter-31",
+    "title": "Chapter 25: Baby's Bedding and Pillow (赤ちゃんの寝具と枕)",
+    "files": [
+      "texts/eng-page0063.txt"
+    ]
+  },
+  {
+    "id": "chapter-32",
+    "title": "Chapter 26: Baby's Clothes and Diapers (赤ちゃんの衣類とおむつ)",
+    "files": [
+      "texts/eng-page0064.txt"
+    ]
+  },
+  {
+    "id": "chapter-33",
+    "title": "Chapter 27: Baby Bottles (ミルクびん)",
+    "files": [
+      "texts/eng-page0065.txt"
+    ]
+  },
+  {
+    "id": "chapter-34",
+    "title": "List of things needed for a newborn baby",
+    "files": [
+      "texts/eng-page0066.txt"
+    ]
+  },
+  {
+    "id": "chapter-35",
+    "title": "New Section: From Birth to One Week Old",
+    "files": [
+      "texts/eng-page0067.txt"
     ]
   }
 
